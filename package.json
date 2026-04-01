@@ -1,6 +1,6 @@
 {
   "name": "html360-gen",
-  "version": "1.0.0",
+  "version": "2.5.0",
   "description": "Standalone, zero-dependency binaries for the original Pannellum `generate.py` script.",
   "keywords": [
     "pannellum",
